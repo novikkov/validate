@@ -1,0 +1,36 @@
+[33mcommit 3ac443194fbe831bd4e53bb722305df88cf9ad20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 56169e6 4ec860f
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Fri Mar 13 16:43:40 2020 +0300
+
+    Merge branch 'develop'
+
+[33mcommit 4ec860fbe51b297335783b1a75e469ec914023d4[m[33m ([m[1;33mtag: v0.0.4[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Fri Mar 13 16:42:30 2020 +0300
+
+    edit readme.md
+
+[33mcommit 56169e6c9dd080d3c733c252767fb4c44a2c5d94[m[33m ([m[1;33mtag: v0.0.3[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Fri Mar 13 16:35:49 2020 +0300
+
+    merge develop
+
+[33mcommit 9424997825632fb30516c9eefb98ef812e023f0b[m[33m ([m[1;33mtag: v0.0.2[m[33m)[m
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Fri Mar 13 16:29:51 2020 +0300
+
+    prepared readme.md
+
+[33mcommit 13cb904eaf809ee5726f74df3a075c1984d472b7[m[33m ([m[1;33mtag: v0.0.1[m[33m)[m
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Fri Mar 13 00:13:43 2020 +0300
+
+    make pattern to input
+
+[33mcommit f7ad62a1103d9d4c0016fd8c38c4d07a77e70a10[m
+Author: Yury Novikov <nov8861@yandex.ru>
+Date:   Tue Mar 10 18:40:36 2020 +0300
+
+    add files
