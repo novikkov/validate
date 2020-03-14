@@ -20,7 +20,7 @@
                 <h3>Форма регистрации</h3>
                 <fieldset class="form__fieldset">
                     <div class="form__field">
-                        <input class="form__input" type="text" name="name" pattern="^[а-яёА-ЯЁ]+([-А-ЯЁ]{2})?+([а-яё]{1,20})?$" placeholder="Имя" required minlength="2" maxlength="20"/>
+                        <input class="form__input" type="text" name="name" pattern="^([А-Я]{1}[а-яё]+)(-[А-Я]{1}[а-яё]+)?$" placeholder="Имя" required minlength="2" maxlength="20"/>
                     </div>
                     <div class="form__field">
                         <input class="form__input" type="email" name="email" pattern="^([a-z0-9_-]+\.)*[a-z0-9_-]+@[a-z0-9_-]+(\.[a-z0-9_-]+)*\.[a-z]{2,}$" placeholder="E-Mail" required />
@@ -31,7 +31,7 @@
                         <span class="form__error">телефон в формате: +7 (900) 000-00-00</span>
                     </div>
                     <div class="form__field">
-                        <input class="form__input" type="url" name="url" pattern="^http(s)?:\/\/(www\.)?(?!(www\.))(([0-2][0-9][0-9]\.){3}[0-2][0-9][0-9]|([\w-]+(\.|\/)?)+)(:\d{2,5})?#?\d?$" placeholder="Ваш сайт" required/>
+                        <input class="form__input" type="url" name="url" pattern="^http(s)?:\/\/(www\.)?(?!(www\.))(([0-2][0-9][0-9]\.){3}[0-2][0-9][0-9](:\d{2,5})?|([\w-]+(\.)?)+)(\/?)(([a-zA-Z0-9]{1,}?\/?)*\#?)?$" placeholder="Ваш сайт" required/>
                         <span class="form__error">URL в формате: http://mysite.ru</span>
                     </div>
                     <button class="form__button" type="submit">Отправить</button>
