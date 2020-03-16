@@ -1,3 +1,3 @@
 # Рабочая версия [http://novikkov.github.io/validate]
 
-## v0.0.9
+## v0.1.2
